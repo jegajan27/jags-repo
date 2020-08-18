@@ -24,3 +24,5 @@ for item in list_txt:
         break
 
 driver.close()
+
+new line
